@@ -124,9 +124,4 @@ Place your dataset images in a folder, e.g., `dataset_folder`, with supported fo
 For questions, suggestions, or contributions, feel free to get in touch.  
 
 ---
-
-Happy Recommending! 🚀
-
----
-
-> Replace the placeholder images with real screenshots of your app. You can take screenshots by running the app locally and uploading them to your README. Use tools like Snipping Tool (Windows) or Command+Shift+4 (Mac) to capture screenshots.
+ 
